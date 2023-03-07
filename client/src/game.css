@@ -1,0 +1,90 @@
+body{
+  background-image: linear-gradient(to right, #81e99e, #72e8a5, #62e6ac, #51e4b4, #3de2bb,
+   #2fe1c2, #1ee0c8, #00dfce, #00dfd5, #06dfdc, #17dee2, #26dee8);
+}
+.App-header{
+width:100%;
+height: 100px;
+margin-left: 0;
+margin-top: 0;
+background-image: url('image33.jpg');
+}
+.getnumber{
+margin-left: 370px;
+bottom: 40px;
+height:50px;
+color:black;
+}
+
+
+.moves{
+  margin-left: 820px;
+}
+.rightstmt{
+color:green;
+font-size: 20px;
+margin-left: -40px;
+}
+.wrongstmt{
+color:red;
+font-size: 20px;
+margin-left: -20px;
+}
+.hint{
+  color:black;
+  font-size: 20px;
+  margin-left: -20px;
+}
+.image-container{
+margin-left:4%;
+margin-top:100px;
+background-image: url('photo1.jpg');
+width:80%;
+height:500px;
+border-radius: 25px;
+}
+.input {
+  width: 100px;
+  height: 50px;
+  background-image: linear-gradient(to bottom, #15dcd1, #6ad9b5, #94d5a1, #b3d097, #caca97, #cfc38e, #d5bc86, #dbb481, #dba869, #da9b51, #da8d3a, #d97f20);
+  margin-left: 260px;
+  border-radius: 20px;
+  font-size: 30px;
+  margin-top: -100px;
+  box-shadow: #709aeb;
+}
+
+.button{
+  width:100px;
+  font-size: 30px;
+  margin-top:170px;
+  margin-left:260px;
+  height:50px;
+  background-image: linear-gradient(to bottom, #15dcd1, #6ad9b5, #94d5a1, #b3d097, 
+#caca97, #cfc38e, #d5bc86, #dbb481, #dba869, #da9b51, #da8d3a, #d97f20);
+  border-radius:20px;
+  cursor:pointer;
+}
+.back{
+  width:150px;
+  font-size: 20px;
+  margin-left: 550px;
+  margin-top: -150px;
+  height:70px;
+  background-image: linear-gradient(to bottom, #15dcd1, #6ad9b5, #94d5a1, #b3d097, 
+#caca97, #cfc38e, #d5bc86, #dbb481, #dba869, #da9b51, #da8d3a, #d97f20);
+  border-radius:20px;
+  cursor:pointer;
+}
+
+/* .random{
+  width:100px;
+  font-size: 30px;
+  margin-left: 600px;
+  margin-top: 0px;
+  height:50px;
+  background-image: linear-gradient(to bottom, #15dcd1, #6ad9b5, #94d5a1, #b3d097, 
+#caca97, #cfc38e, #d5bc86, #dbb481, #dba869, #da9b51, #da8d3a, #d97f20);
+  border-radius:20px;
+  cursor:pointer;
+} */

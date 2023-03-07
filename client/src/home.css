@@ -1,0 +1,26 @@
+.homepage{
+    width:700px;
+    height:500px;
+    background-color: white;
+    background-image: url('anigif.gif');
+    margin-top: 5%;
+    margin-left: 25%;
+    border-radius: 50px;
+}
+.title{
+    color: white;
+    text-align: center;
+    }
+.play{
+    width:200px;
+    height:100px;
+    
+    color: white;
+    background-image: linear-gradient(to bottom, #15dcd1, #6ad9b5, #94d5a1, #b3d097, #caca97, #cfc38e, #d5bc86, #dbb481, #dba869, #da9b51, #da8d3a, #d97f20);
+    cursor:pointer;
+    margin-top: 200px;
+    margin-left: 0px;
+    font-size: 40px;
+    border-radius: 200px;
+
+}
